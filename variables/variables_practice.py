@@ -11,3 +11,13 @@ print(my_int)
 print(my_float)
 print(my_string) 
 
+my_int = input("Please type the number of hotdogs you can eat in 5 minutes.\n")
+print(my_int)
+
+my_float = input("What is your 40 yard dash time?\n")
+print(my_float)
+
+my_string = input("Please type the name of your elementary school crush.\n")
+print(my_string)
+
+
